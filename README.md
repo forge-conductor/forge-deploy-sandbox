@@ -1,1 +1,1 @@
-# Forge deploy sandbox - intentional Vercel failure fixture
+# Forge deploy sandbox - Railway Node fixture

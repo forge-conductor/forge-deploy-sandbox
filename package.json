@@ -1,6 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "build": "node -e \"console.error('intentional CP7 Vercel failure fixture'); process.exit(1)\""
+    "start": "node server.js",
+    "build": "node -e \"console.log('CP7 Railway fixture build complete')\""
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
