@@ -1,7 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "build": "node build.mjs"
+    "start": "node server.js",
+    "build": "node -e \"console.log('CP7 Railway fixture build complete')\""
   },
-  "devDependencies": {}
+  "engines": {
+    "node": "20.x"
+  }
 }
