@@ -1,7 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "build": "node build.mjs"
-  },
-  "devDependencies": {}
+    "build": "node -e \"console.error('intentional CP7 Vercel failure fixture'); process.exit(1)\""
+  }
 }

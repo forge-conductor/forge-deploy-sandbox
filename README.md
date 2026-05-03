@@ -1,1 +1,1 @@
-# Forge deploy sandbox - Vercel static fixture
+# Forge deploy sandbox - intentional Vercel failure fixture
