@@ -1,5 +1,5 @@
 const http = require('node:http');
-const marker = process.env.FORGE_DEPLOY_MARKER || "forge-cp7-railway-node-1777844247887";
+const marker = process.env.FORGE_DEPLOY_MARKER || "forge-cp7-railway-node-1777844436916";
 const server = http.createServer((req, res) => {
   if (req.url === '/healthz') {
     res.setHeader('content-type', 'application/json');
