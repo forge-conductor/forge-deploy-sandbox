@@ -1,1 +1,1 @@
-# Forge deploy sandbox - Railway Node fixture
+# Forge deploy sandbox - Vercel static fixture
